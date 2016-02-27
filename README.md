@@ -1,2 +1,2 @@
 # hello-world
-Example repository. This is an edition.
+Example repository. This is an edition. Yeah!
